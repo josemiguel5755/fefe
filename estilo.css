@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin-top: 0;
+    
+}
+
+
+body{
+    background-color: rgb(193, 229, 244);
+    
+}
+
+nav{
+    padding-top: 30px;
+    font-size: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 800;
+}
+
+
+@import url('https://fonts.googleapis.com/css2? family= Bebas+Neue & family= Dela+Gothic+One & family= Lato:ital,wght@0,300;0,400;0,700;0,900; 1,300;1,400;1,700;1,900 & familia= Oswald:wght@400;500;600;700 & familia= Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700 & display=swap');
+
+
+li{
+    position: absolute;
+    list-style: none;
+}
+
+a{
+    margin-left: 40px;
+    
+}
+
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.t{
+    position: absolute;
+    top: 245px;
+    left: 60px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 650;
+    font-size: 20px;
+    
+}
+
+.txt1{
+    position: absolute;
+    top:280px;
+    left: 60px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 750;
+}
+
+.n{
+    position: absolute;
+    top: 360px;
+    left: 60px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 550;
+    font-size: 20px;
+
+}
+
+
+.fondo{
+    width: 600px;
+    height: 430px;
+    padding-left: 570px;
+    padding-top: 90px;
+    
+    
+    
+}
+
+
+.o{
+    position: absolute;
+    font-size: 18px;
+    left: 200px;
+    top: 490px;
+    text-decoration: none;
+    background-color: blue;
+    color: #ffffff;
+    border: 10px;
+    padding: 15px 32px;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.o:hover{
+    background-color: rgb(14, 14, 202);
+}
+
+
+.u{
+    position: absolute;
+    font-size: 18px;
+    left: 30px;
+    top: 490px;
+    text-decoration: none;
+    background-color: blue;
+    color: #ffffff;
+    border: 10px;
+    padding: 15px 32px;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+
+.u:hover{
+    background-color: rgb(14, 14, 202);
+}
+
+.texto2{
+    position: absolute;
+    top: 620px;
+    left: 40px;
+}
+
+.imagen-circular {
+    width: 200px; /* Establece el ancho deseado para tu imagen */
+        height: 200px; /* Establece la altura deseada para tu imagen */
+        border-radius: 50%; /* Hace que la imagen sea circular */
+        border: 10px solid floralwhite;
+        margin-top: 190px;
+        margin-left: 130px;
+}
+
+.txt3{
+    position: absolute;
+    top: 1050px;
+    left: 100px;
+    font-family: sans-serif;
+    font-weight: 1000px;
+    color: #000000;
+    max-width: 200px;
+    padding: 40px;
+    border-radius: 25px;
+    background: rgb(255, 255, 255,.2);
+    box-shadow: 0 5px 15px rgba(0, 0, 0,.5);
+}
+
+.cirujano{
+    width: 200px; /* Establece el ancho deseado para tu imagen */
+        height: 200px; /* Establece la altura deseada para tu imagen */
+        border-radius: 50%; /* Hace que la imagen sea circular */
+        border: 10px solid floralwhite;
+        margin-top: 190px;
+        margin-left: 250px;
+}
+
+
+.txt4{
+    position: absolute;
+    top: 1050px;
+    left: 580px;
+    font-family: sans-serif;
+    font-weight: 1000px;
+    color: #000000;
+    max-width: 200px;
+    padding: 40px;
+    border-radius: 25px;
+    background: rgb(255, 255, 255,.2);
+    box-shadow: 0 5px 15px rgba(0, 0, 0,.5);
+    
+}
+
+.pediatra{
+    width: 200px; /* Establece el ancho deseado para tu imagen */
+        height: 200px; /* Establece la altura deseada para tu imagen */
+        border-radius: 50%; /* Hace que la imagen sea circular */
+        border: 10px solid floralwhite;
+        margin-top: 190px;
+        margin-left: 220px;
+}
+
+
+.txt5{
+    position: absolute;
+    top: 1050px;
+    left: 1030px;
+    font-family: sans-serif;
+    font-weight: 1000px;
+    color: #000000;
+    max-width: 200px;
+    padding: 40px;
+    border-radius: 25px;
+    background: rgb(255, 255, 255,.2);
+    box-shadow: 0 5px 15px rgba(0, 0, 0,.5);
+}
