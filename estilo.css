@@ -40,7 +40,7 @@ a{
 
 .t{
     position: absolute;
-    top: 245px;
+    top: 286px;
     left: 60px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 650;
@@ -50,7 +50,7 @@ a{
 
 .txt1{
     position: absolute;
-    top:280px;
+    top:319px;
     left: 60px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 750;
@@ -58,7 +58,7 @@ a{
 
 .n{
     position: absolute;
-    top: 360px;
+    top: 400px;
     left: 60px;
     font-family: 'Bebas Neue', sans-serif;
     font-weight: 550;
@@ -81,7 +81,7 @@ a{
 .o{
     position: absolute;
     font-size: 18px;
-    left: 200px;
+    left: 220px;
     top: 490px;
     text-decoration: none;
     background-color: blue;
@@ -100,7 +100,7 @@ a{
 .u{
     position: absolute;
     font-size: 18px;
-    left: 30px;
+    left: 50px;
     top: 490px;
     text-decoration: none;
     background-color: blue;
@@ -194,3 +194,82 @@ a{
     background: rgb(255, 255, 255,.2);
     box-shadow: 0 5px 15px rgba(0, 0, 0,.5);
 }
+
+
+@media screen and (max-width: 420px) {
+    .u{
+        margin-top: 40px;
+    }
+    
+}
+
+@media screen and (max-width: 420px) {
+    .o{
+        margin-top: 40px;
+    }
+    
+}
+
+@media screen and (max-width: 420px) {
+    .n{
+        margin-top: 40px;
+    }
+    
+}
+
+@media screen and (max-width: 427px) {
+    .n{
+        margin-top: 40px;
+    }
+    
+}
+
+@media screen and (max-width: 583px) {
+    .n{
+        margin-top: 40px;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 583px) {
+    .u{
+        margin-top: 40px;
+    }
+    
+}
+
+@media screen and (max-width: 583px) {
+    .o{
+        margin-top: 40px;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 589px) {
+    .n{
+        margin-top: 30px;
+    }
+    
+}
+
+
+@media screen and (max-width: 589px) {
+    .o{
+        margin-top: 40px;
+    }
+    
+}
+
+
+@media screen and (max-width: 589px) {
+    .u{
+        margin-top: 40px;
+    }
+    
+}
+
+
